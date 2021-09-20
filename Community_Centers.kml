@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc" id="bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+	<SimpleField name="FID" type="int"></SimpleField>
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="SITE" type="string"></SimpleField>
+	<SimpleField name="PHONE" type="string"></SimpleField>
+	<SimpleField name="FAX" type="string"></SimpleField>
+	<SimpleField name="STREET" type="string"></SimpleField>
+	<SimpleField name="NEIGH" type="string"></SimpleField>
+	<SimpleField name="ZIP" type="int"></SimpleField>
+</Schema>
+<Folder><name>bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">1</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Pino</SimpleData>
+		<SimpleData name="PHONE">635-5120</SimpleData>
+		<SimpleData name="FAX">635-1874</SimpleData>
+		<SimpleData name="STREET">86 Boardman St.</SimpleData>
+		<SimpleData name="NEIGH">East Boston</SimpleData>
+		<SimpleData name="ZIP">2128</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0108269837395,42.3888817140619</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">2</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Paris Street Pool*</SimpleData>
+		<SimpleData name="PHONE">635-1410</SimpleData>
+		<SimpleData name="FAX">635-5079</SimpleData>
+		<SimpleData name="STREET">113 Paris St.</SimpleData>
+		<SimpleData name="NEIGH">East Boston</SimpleData>
+		<SimpleData name="ZIP">2128</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0368919163415,42.3724271511922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">3</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Paris Street</SimpleData>
+		<SimpleData name="PHONE">635-5125</SimpleData>
+		<SimpleData name="FAX">635-5079</SimpleData>
+		<SimpleData name="STREET">112 Paris St.</SimpleData>
+		<SimpleData name="NEIGH">East Boston</SimpleData>
+		<SimpleData name="ZIP">2128</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0375220248402,42.3728816312829</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">4</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Golden Age Center</SimpleData>
+		<SimpleData name="PHONE">635-5175</SimpleData>
+		<SimpleData name="FAX">635-5647</SimpleData>
+		<SimpleData name="STREET">382 Main St.</SimpleData>
+		<SimpleData name="NEIGH">Charlestown</SimpleData>
+		<SimpleData name="ZIP">2129</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0699168142103,42.3797690168046</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">5</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Charlestown*</SimpleData>
+		<SimpleData name="PHONE">635-5169</SimpleData>
+		<SimpleData name="FAX">635-5084</SimpleData>
+		<SimpleData name="STREET">255 Medford St.</SimpleData>
+		<SimpleData name="NEIGH">Charlestown</SimpleData>
+		<SimpleData name="ZIP">2129</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0609507192311,42.380995303203</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">6</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Nazzaro</SimpleData>
+		<SimpleData name="PHONE">635-5166</SimpleData>
+		<SimpleData name="FAX">635-5053</SimpleData>
+		<SimpleData name="STREET">30 N. Bennet St.</SimpleData>
+		<SimpleData name="NEIGH">Boston</SimpleData>
+		<SimpleData name="ZIP">2113</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0544968810165,42.3652996796642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">7</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Quincy*</SimpleData>
+		<SimpleData name="PHONE">635-5129</SimpleData>
+		<SimpleData name="FAX">635-5132</SimpleData>
+		<SimpleData name="STREET">885 Washington St</SimpleData>
+		<SimpleData name="NEIGH">Boston</SimpleData>
+		<SimpleData name="ZIP">2111</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0649617695614,42.3479492763056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">8</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Condon*</SimpleData>
+		<SimpleData name="PHONE">635-5100</SimpleData>
+		<SimpleData name="FAX">635-5103</SimpleData>
+		<SimpleData name="STREET">200 &quot;D&quot; St.</SimpleData>
+		<SimpleData name="NEIGH">South Boston</SimpleData>
+		<SimpleData name="ZIP">2127</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0525266409767,42.338151479745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">9</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Tynan</SimpleData>
+		<SimpleData name="PHONE">635-5110</SimpleData>
+		<SimpleData name="FAX">635-5065</SimpleData>
+		<SimpleData name="STREET">650 E. Fourth St.</SimpleData>
+		<SimpleData name="NEIGH">South Boston</SimpleData>
+		<SimpleData name="ZIP">2127</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0389136775342,42.3346334388507</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">10</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Curley</SimpleData>
+		<SimpleData name="PHONE">635-5104</SimpleData>
+		<SimpleData name="FAX">635-1259</SimpleData>
+		<SimpleData name="STREET">1663 Columbia Rd.</SimpleData>
+		<SimpleData name="NEIGH">South Boston</SimpleData>
+		<SimpleData name="ZIP">2127</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0354629468184,42.3292072485415</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">11</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Vine Street</SimpleData>
+		<SimpleData name="PHONE">635-1285</SimpleData>
+		<SimpleData name="FAX">635-1291</SimpleData>
+		<SimpleData name="STREET">339 Dudley Street</SimpleData>
+		<SimpleData name="NEIGH">Roxbury</SimpleData>
+		<SimpleData name="ZIP">2119</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0767147735931,42.3267818083174</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">12</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Blackstone*</SimpleData>
+		<SimpleData name="PHONE">635-5162</SimpleData>
+		<SimpleData name="FAX">635-5057</SimpleData>
+		<SimpleData name="STREET">50 W. Brookline S</SimpleData>
+		<SimpleData name="NEIGH">Boston</SimpleData>
+		<SimpleData name="ZIP">2118</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0730041365717,42.3403810738602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">13</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Rec. Division @ Madison Park*</SimpleData>
+		<SimpleData name="PHONE">635-5206</SimpleData>
+		<SimpleData name="FAX">635-5078</SimpleData>
+		<SimpleData name="STREET">55 Malcom X Blvd</SimpleData>
+		<SimpleData name="NEIGH">Roxbury</SimpleData>
+		<SimpleData name="ZIP">2119</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0892278686055,42.3316860264015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">14</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Tobin</SimpleData>
+		<SimpleData name="PHONE">635-5216</SimpleData>
+		<SimpleData name="FAX">635-5288</SimpleData>
+		<SimpleData name="STREET">1481 Tremont St.</SimpleData>
+		<SimpleData name="NEIGH">Roxbury</SimpleData>
+		<SimpleData name="ZIP">2119</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0981616896089,42.3324019255967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">15</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Hennigan*</SimpleData>
+		<SimpleData name="PHONE">635-5198</SimpleData>
+		<SimpleData name="FAX">635-5020</SimpleData>
+		<SimpleData name="STREET">200 Heath St.</SimpleData>
+		<SimpleData name="NEIGH">Jamaica Plai</SimpleData>
+		<SimpleData name="ZIP">2130</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1068886203214,42.3260829589987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">16</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Shelburne</SimpleData>
+		<SimpleData name="PHONE">635-5213</SimpleData>
+		<SimpleData name="FAX">635-5224</SimpleData>
+		<SimpleData name="STREET">2730 Washington S</SimpleData>
+		<SimpleData name="NEIGH">Roxbury</SimpleData>
+		<SimpleData name="ZIP">2119</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0902032928732,42.3224106304714</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">17</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Holland*</SimpleData>
+		<SimpleData name="PHONE">635-5144</SimpleData>
+		<SimpleData name="FAX">635-5152</SimpleData>
+		<SimpleData name="STREET">85 Olney St.</SimpleData>
+		<SimpleData name="NEIGH">Dorchester</SimpleData>
+		<SimpleData name="ZIP">2121</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0736191226796,42.3061402464757</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">18</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Perkins*</SimpleData>
+		<SimpleData name="PHONE">635-5146</SimpleData>
+		<SimpleData name="FAX">635-5274</SimpleData>
+		<SimpleData name="STREET">155 Talbot Ave.</SimpleData>
+		<SimpleData name="NEIGH">Dorchester</SimpleData>
+		<SimpleData name="ZIP">2124</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0804505517003,42.2924512497082</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">19</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Cleveland</SimpleData>
+		<SimpleData name="PHONE">635-5141</SimpleData>
+		<SimpleData name="FAX">635-5028</SimpleData>
+		<SimpleData name="STREET">11 Charles St.</SimpleData>
+		<SimpleData name="NEIGH">Dorchester</SimpleData>
+		<SimpleData name="ZIP">2122</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0616961550015,42.3008803008259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">20</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Leahy-Holloran*</SimpleData>
+		<SimpleData name="PHONE">635-5150</SimpleData>
+		<SimpleData name="FAX">635-5298</SimpleData>
+		<SimpleData name="STREET">1 Worrell St.</SimpleData>
+		<SimpleData name="NEIGH">Dorchester</SimpleData>
+		<SimpleData name="ZIP">2122</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.049285508462,42.2943503766681</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">21</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Gallivan</SimpleData>
+		<SimpleData name="PHONE">635-5252</SimpleData>
+		<SimpleData name="FAX">635-5042</SimpleData>
+		<SimpleData name="STREET">61 Woodruff Way</SimpleData>
+		<SimpleData name="NEIGH">Mattapan</SimpleData>
+		<SimpleData name="ZIP">2126</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0824175360372,42.2752221764514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">22</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Mildred Avenue*</SimpleData>
+		<SimpleData name="PHONE">635-1328</SimpleData>
+		<SimpleData name="FAX">635-1332</SimpleData>
+		<SimpleData name="STREET">5 Mildred Ave.</SimpleData>
+		<SimpleData name="NEIGH">Mattapan</SimpleData>
+		<SimpleData name="ZIP">2126</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0912031726427,42.2759927246077</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">23</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Hyde Park</SimpleData>
+		<SimpleData name="PHONE">635-5178</SimpleData>
+		<SimpleData name="FAX">635-5290</SimpleData>
+		<SimpleData name="STREET">1179 River St.</SimpleData>
+		<SimpleData name="NEIGH">Hyde Park</SimpleData>
+		<SimpleData name="ZIP">2136</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1209922314941,42.2564252306796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">24</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Curtis Hall*</SimpleData>
+		<SimpleData name="PHONE">635-5193</SimpleData>
+		<SimpleData name="FAX">635-5273</SimpleData>
+		<SimpleData name="STREET">20 South St.</SimpleData>
+		<SimpleData name="NEIGH">Jamaica Plai</SimpleData>
+		<SimpleData name="ZIP">2130</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1148999354001,42.3088511398977</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">25</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Roslindale</SimpleData>
+		<SimpleData name="PHONE">635-5185</SimpleData>
+		<SimpleData name="FAX">635-5271</SimpleData>
+		<SimpleData name="STREET">6 Cummins Hwy.</SimpleData>
+		<SimpleData name="NEIGH">Roslindale</SimpleData>
+		<SimpleData name="ZIP">2131</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1276384249151,42.2865764735092</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">26</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Flaherty Pool*</SimpleData>
+		<SimpleData name="PHONE">635-5181</SimpleData>
+		<SimpleData name="FAX">635-1225</SimpleData>
+		<SimpleData name="STREET">160 Florence St.</SimpleData>
+		<SimpleData name="NEIGH">Roslindale</SimpleData>
+		<SimpleData name="ZIP">2131</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1222087700377,42.2883204322892</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">27</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Menino</SimpleData>
+		<SimpleData name="PHONE">635-5256</SimpleData>
+		<SimpleData name="FAX">635-5258</SimpleData>
+		<SimpleData name="STREET">125 Brookway Rd.</SimpleData>
+		<SimpleData name="NEIGH">Roslindale</SimpleData>
+		<SimpleData name="ZIP">2131</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1201491289981,42.2923882465749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">28</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Roche</SimpleData>
+		<SimpleData name="PHONE">635-5066</SimpleData>
+		<SimpleData name="FAX">635-5067</SimpleData>
+		<SimpleData name="STREET">1716 Centre St.</SimpleData>
+		<SimpleData name="NEIGH">West Roxbury</SimpleData>
+		<SimpleData name="ZIP">2132</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1493061558172,42.2869359902307</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">29</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Draper Pool*</SimpleData>
+		<SimpleData name="PHONE">635-5021</SimpleData>
+		<SimpleData name="FAX">635-5628</SimpleData>
+		<SimpleData name="STREET">5279 Washington S</SimpleData>
+		<SimpleData name="NEIGH">West Roxbury</SimpleData>
+		<SimpleData name="ZIP">2132</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1597832274256,42.2601659116259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">30</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Ohrenberger</SimpleData>
+		<SimpleData name="PHONE">635-5183</SimpleData>
+		<SimpleData name="FAX">635-5283</SimpleData>
+		<SimpleData name="STREET">175 W. Boundary R</SimpleData>
+		<SimpleData name="NEIGH">West Roxbury</SimpleData>
+		<SimpleData name="ZIP">2132</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1494662657657,42.2608343327245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">31</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Jackson/Mann</SimpleData>
+		<SimpleData name="PHONE">635-5153</SimpleData>
+		<SimpleData name="FAX">635-5275</SimpleData>
+		<SimpleData name="STREET">500 Cambridge St.</SimpleData>
+		<SimpleData name="NEIGH">Allston</SimpleData>
+		<SimpleData name="ZIP">2134</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1375007708588,42.3529092061974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">32</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Mirabella Pool*</SimpleData>
+		<SimpleData name="PHONE">635-1275</SimpleData>
+		<SimpleData name="FAX">---</SimpleData>
+		<SimpleData name="STREET">475 Commercial St</SimpleData>
+		<SimpleData name="NEIGH">Boston</SimpleData>
+		<SimpleData name="ZIP">2113</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0543096682463,42.36875282086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">33</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Clougherty Pool*</SimpleData>
+		<SimpleData name="PHONE">635-5174</SimpleData>
+		<SimpleData name="FAX">---</SimpleData>
+		<SimpleData name="STREET">Bunker Hill St.</SimpleData>
+		<SimpleData name="NEIGH">Charlestown</SimpleData>
+		<SimpleData name="ZIP">2129</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0675011641239,42.3818774216633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">34</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Grove Hall</SimpleData>
+		<SimpleData name="PHONE">635-1484</SimpleData>
+		<SimpleData name="FAX">635-1485</SimpleData>
+		<SimpleData name="STREET">51 Geneva Ave.</SimpleData>
+		<SimpleData name="NEIGH">Roxbury</SimpleData>
+		<SimpleData name="ZIP">2121</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0823239109573,42.3088547158479</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">35</SimpleData>
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="SITE">Mason Pool*</SimpleData>
+		<SimpleData name="PHONE">635-5241</SimpleData>
+		<SimpleData name="FAX">635-5627</SimpleData>
+		<SimpleData name="STREET">159 Norfolk Ave.</SimpleData>
+		<SimpleData name="NEIGH">Roxbury</SimpleData>
+		<SimpleData name="ZIP">2118</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.0708185577016,42.3258065764696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#bb75f5c4_9de0_4951_90e1_2407bac7730f2020328_1_hu4s06.wayqc">
+		<SimpleData name="FID">36</SimpleData>
+		<SimpleData name="SITE">Mattahunt</SimpleData>
+		<SimpleData name="PHONE">635-5159</SimpleData>
+		<SimpleData name="STREET">100 Hebron St</SimpleData>
+		<SimpleData name="NEIGH">Mattapan</SimpleData>
+		<SimpleData name="ZIP">2126</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.1035699361574,42.2758118486664</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
